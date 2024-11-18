@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yharati99
-- 👀 I’m interested in software development and learning as much as possible
-- 🌱 I’m currently learning python in school as well as different languages at home
-- 💞️ I’m looking to collaborate on any elementary project to strengthen my skills
+- 👀 I’m interested in software engineering and learning as much as possible
 - 📫 How to reach me:y Discord; y.harati_99#1485
 
 <!---
